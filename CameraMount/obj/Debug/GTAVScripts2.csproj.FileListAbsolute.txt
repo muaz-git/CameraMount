@@ -1,0 +1,9 @@
+D:\Project\GTAVScripts2\GTAVScripts2\bin\Debug\GTAVScripts2.dll
+D:\Project\GTAVScripts2\GTAVScripts2\bin\Debug\GTAVScripts2.pdb
+D:\Project\GTAVScripts2\GTAVScripts2\bin\Debug\NativeUI.dll
+D:\Project\GTAVScripts2\GTAVScripts2\bin\Debug\ScriptHookVDotNet2.dll
+D:\Project\GTAVScripts2\GTAVScripts2\bin\Debug\ScriptHookVDotNet2.xml
+D:\Project\GTAVScripts2\GTAVScripts2\obj\Debug\GTAVScripts2.dll
+D:\Project\GTAVScripts2\GTAVScripts2\obj\Debug\GTAVScripts2.pdb
+D:\Project\GTAVScripts2\GTAVScripts2\bin\Debug\VAutodrive.dll
+D:\Project\GTAVScripts2\GTAVScripts2\bin\Debug\VCommonFunctions.dll
