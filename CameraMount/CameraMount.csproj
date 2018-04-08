@@ -7,8 +7,8 @@
     <ProjectGuid>{AE80268F-A224-4BBE-9AA0-8B4B397140DA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GTAVScripts2</RootNamespace>
-    <AssemblyName>GTAVScripts2</AssemblyName>
+    <RootNamespace>CameraMount</RootNamespace>
+    <AssemblyName>CameraMount</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
