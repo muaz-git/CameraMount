@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using VAutodrive;
 using System.Reflection;
 
-namespace GTAVScripts2
+namespace CameraMount
 {
 
     public class Main : Script
@@ -37,6 +37,7 @@ namespace GTAVScripts2
         }
 
         // Function used to take control of the world rendering camera.
+        // mount camera on vehicle only if Character is in vehicle. 
         public void mountCameraOnVehicle()
         {
             if (Game.Player.Character.IsInVehicle())
